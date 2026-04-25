@@ -1,0 +1,6 @@
+# Keysight manuals — copyrighted, do not commit
+*.pdf
+*.chm
+*.txt
+*.zip
+!README.md

@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.venv
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Captured data / screenshots (keep out of repo)
+*.csv
+*.png
+*.bmp
+screenshot*.png
+waveform*.png
+waveform*.csv
+
+# Vendor manuals — copyrighted, anywhere in the repo
+*.pdf
+*.chm
+docs/vendor_manuals/*.txt
+docs/vendor_manuals/*.zip
+
+# Windows
+Thumbs.db
+desktop.ini
