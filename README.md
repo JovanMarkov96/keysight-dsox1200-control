@@ -36,7 +36,7 @@ pip install keysight-dsox1200-control
 Or install from source:
 
 ```bash
-git clone https://github.com/your-org/keysight-dsox1200-control.git
+git clone https://github.com/JovanMarkov96/keysight-dsox1200-control.git
 cd keysight-dsox1200-control
 pip install -e ".[dev]"
 ```
